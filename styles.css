@@ -1,0 +1,17 @@
+.center {
+    margin: auto;
+    width: 80%;
+    padding: 5px;
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+    border: 3px solid gray;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+.offset {
+    padding: 0;
+}
